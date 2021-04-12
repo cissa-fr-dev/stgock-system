@@ -93,7 +93,6 @@ export default function AddProduct() {
                     </button>
                 </div>
             </header>
-            {console.log(categories)}
             {isOpen && <Modal
                 handleToggleModal={handleToggleModal}
                 isOpen={isOpen}
