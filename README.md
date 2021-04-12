@@ -36,6 +36,9 @@ $ yarn start or npm start
 
 <br/>
 
+## Notes
+<p><strong>Pending: </strong>the logic of deleting a category only if it does not have any associated products has not been finalized yet.</p>
+
 <h1>Português</h1>
 <h1 align = "center">Sistema de estoque </h1>
 
@@ -67,7 +70,11 @@ $ yarn start ou npm start
    <li> <strong> back-end: </strong> node js </li>
    <li> <strong> banco de dados: </strong> sqlite3 </li>
 </ ul
+   
 <br/>
+
+## Notes
+<p><strong>Pendente: </strong>a lógica de excluir uma categoria só se ela não estiver com nenhum produto associado não foi finalizada ainda.</p>
 
 ## PDF de documentação
 <a href="https://drive.google.com/file/d/1OvX5Nar_4Ow2pd32KTerkgcIuS7g46iF/view?usp=sharing"> Link para o arquivo </a>
